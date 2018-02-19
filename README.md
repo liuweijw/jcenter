@@ -1,2 +1,2 @@
 # jcenter
-publish project to jcenter
+publish project to jcenter and maven
